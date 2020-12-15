@@ -28,7 +28,6 @@ The directions which we followed in order to create this project is as follows:
 1. Paint the box white.
 2. Measure and mark the areas which the buttons and the micro:bit will show
 3. Cut out the marked areas
-![Tinfoil Base]()
 4. Add tinfoil bases inside the box.
 ![Button Plan](https://i.ibb.co/McSK7bg/t-spring.png)
 Above is the original design of the buttons. It was necessary as the micro:bit only has two inputs.
@@ -46,7 +45,7 @@ Above is the outline for the code. The plan is not completely accurate to the fi
 The python code file for this project can be found in the ChirstmasProject repository.
 
 # Put everthing together
-![Put everything together]()
+![Put everything together](https://i.ibb.co/7vRLQZG/Screen-Shot-2020-12-15-at-9-32-42-AM.png)
 1. Place all necessary objects in the base.
 2. Make sure all items is secure.
 
