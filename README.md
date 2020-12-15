@@ -25,7 +25,6 @@ The directions which we followed in order to create this project is as follows:
 
 # Building the base
 
-![Box Exterior]()
 1. Paint the box white.
 2. Measure and mark the areas which the buttons and the micro:bit will show
 3. Cut out the marked areas
@@ -42,15 +41,17 @@ The toy now only has one mechanical button(as opposed to the original three-butt
 
 # Coding
 Code the micro:bit with the help of the [micro:bit Python Editor](https://python.microbit.org/v/2)
-The python code file for this project can be found in the raspibuggyproject repository.
+![Code Original Plan](https://i.ibb.co/HK73mFW/GAME.png)
+Above is the outline for the code. The plan is not completely accurate to the final result.
+The python code file for this project can be found in the ChirstmasProject repository.
 
 # Put everthing together
-![Put everything together](https://i.ibb.co/1J7Pgsg/IMG-2559.jpg)
-1. Place all necessary objects in the car base.
-2. Make sure the car base is secure.
+![Put everything together]()
+1. Place all necessary objects in the base.
+2. Make sure all items is secure.
 
 # What to do with your Raspi buggy
-Have fun with your new creation!
+This creation is aimed to be used by a child between the ages of 6 to 8, but its use is not limited to this age group!
 
 # Citations
 Sources are linked in a separate document that can be found in the ChristmasProject repository.
