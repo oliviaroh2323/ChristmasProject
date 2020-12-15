@@ -25,23 +25,23 @@ The directions which we followed in order to create this project is as follows:
 
 # Building the base
 
-![Box Exterior](https://i.ibb.co/frGc6zx/IMG-2290.jpg)
-1. Paint the box white
-![Box Interior](https://i.ibb.co/McSK7bg/t-spring.png)
-Above is the original design of the buttons. It was necessary as the micro:bit only has two inputs.
-It was modified as it was too complicated and because it was difficult to source materials.
-2. 3D print or create the button.
+![Box Exterior]()
+1. Paint the box white.
 2. Measure and mark the areas which the buttons and the micro:bit will show
 3. Cut out the marked areas
-
-# Create car base
-1. Measure the dimensions of the motors + wheels, Raspi, the power bank and any other necessary objects.
-![3D model of our design](https://i.ibb.co/25wQf4q/IMG-2402.jpg)
-2. Create a 3D print design of the buggy using the measurements.
-3. Print the 3D model.
+![Tinfoil Base]()
+4. Add tinfoil bases inside the box.
+![Button Plan](https://i.ibb.co/McSK7bg/t-spring.png)
+Above is the original design of the buttons. It was necessary as the micro:bit only has two inputs.
+It was modified as it was too complicated and because it was difficult to source materials.
+The toy now only has one mechanical button(as opposed to the original three-button-plan) that uses a rubber band.
+5. 3D print or create the button(s).
+6. Add button(s) so that the rubber band will pull it back up once it is pushed down.
+7. For non-mechanical buttons, cut slits on the box, then pull through a sheet of tinfoil so that te tinfoil is visible both outside and inside the box.
+8. Decorate the box however you want.
 
 # Coding
-Code buggy movements by using a computer to access the Raspi.
+Code the micro:bit with the help of the [micro:bit Python Editor](https://python.microbit.org/v/2)
 The python code file for this project can be found in the raspibuggyproject repository.
 
 # Put everthing together
